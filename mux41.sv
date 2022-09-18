@@ -1,3 +1,5 @@
+// module uses behavioural code for a 4:1 multiplexer and implements it using ternery operators
+
 module m(input logic[3:0]d0,d1,d2,d3,
          input logic s0,s1,
          output logic[3:0]y);
